@@ -1,2 +1,6 @@
 # chat-room
 基于myeclipse运行的网络socket编程聊天小程序
+
+chatclient
+chatserver
+分别是网络聊天程序的客户端和服务器端，都是java程序。主要体现的是socket的网络编程
