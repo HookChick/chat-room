@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messages [
+<!ELEMENT messages (message+)>
+]>
+<messages>
+	<message>山不在高</message>    
+	<message>有仙则名</message>    
+	<message>水不在深</message>    
+	<message>有龙则灵</message>    
+	<message>斯是陋室</message>    
+</messages>
